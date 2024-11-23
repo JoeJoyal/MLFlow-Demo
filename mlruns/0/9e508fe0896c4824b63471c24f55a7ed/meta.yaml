@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/active-learning/MLFlow-Demo/mlruns/0/9e508fe0896c4824b63471c24f55a7ed/artifacts
+end_time: 1732348082240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e508fe0896c4824b63471c24f55a7ed
+run_name: efficient-swan-928
+run_uuid: 9e508fe0896c4824b63471c24f55a7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348082162
+status: 3
+tags: []
+user_id: Joejoyal

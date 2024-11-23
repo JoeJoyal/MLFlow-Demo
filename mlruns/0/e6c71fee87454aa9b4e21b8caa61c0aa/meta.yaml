@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/active-learning/MLFlow-Demo/mlruns/0/e6c71fee87454aa9b4e21b8caa61c0aa/artifacts
+end_time: 1732348336512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6c71fee87454aa9b4e21b8caa61c0aa
+run_name: bustling-fowl-0
+run_uuid: e6c71fee87454aa9b4e21b8caa61c0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348336453
+status: 3
+tags: []
+user_id: Joejoyal

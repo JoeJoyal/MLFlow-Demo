@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/active-learning/MLFlow-Demo/mlruns/0/ab28ea0c3b944a1da99d1379102d5ed1/artifacts
+end_time: 1732348147810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab28ea0c3b944a1da99d1379102d5ed1
+run_name: casual-crow-245
+run_uuid: ab28ea0c3b944a1da99d1379102d5ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348147758
+status: 3
+tags: []
+user_id: Joejoyal

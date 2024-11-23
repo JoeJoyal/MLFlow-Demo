@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/active-learning/MLFlow-Demo/mlruns/0/8ab089b9f72944759677177e349895cf/artifacts
+end_time: 1732348178381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ab089b9f72944759677177e349895cf
+run_name: rebellious-ant-787
+run_uuid: 8ab089b9f72944759677177e349895cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348178325
+status: 3
+tags: []
+user_id: Joejoyal
